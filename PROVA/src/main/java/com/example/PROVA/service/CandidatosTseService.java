@@ -1,4 +1,4 @@
-package com.example.CandidatosTSE.service;
+package com.example.PROVA.service;
 
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Service;
 
-import com.example.CandidatosTSE.model.Candidato;
+import com.example.PROVA.model.Candidato;
 import com.opencsv.CSVParser;
 import com.opencsv.CSVParserBuilder;
 import com.opencsv.CSVReader;
